@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abbas2123/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1534-count-good-triplets](https://github.com/abbas2123/LEETCODE/tree/master/1534-count-good-triplets) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -31,4 +32,8 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abbas2123/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Enumeration
+|  |
+| ------- |
+| [1534-count-good-triplets](https://github.com/abbas2123/LEETCODE/tree/master/1534-count-good-triplets) |
 <!---LeetCode Topics End-->
