@@ -4,19 +4,32 @@
  * @return {boolean}
  */
 var isAnagram = function(s, t) {
-    let a = s.split('');
-    let b = t.split('');
-    
-    if(a.length!== b.length) return false;
-let c = true;
-    for(let i=0;i<a.length;i++){
-        if(b.includes(s[i])){
-            let index = b.indexOf(s[i])
-            b.splice(index,1);
+    if (s.length !== t.length) {
+        return false;
+    }
+
+    let count = {};
+
+    // Build frequency map
+    for (let char of s) {
+
+        if (count[char] === undefined) {
+            count[char] = 1;
+        } else {
+            count[char] = count[char] + 1;
         }
     }
-    if(b.length===0){ return true;}
-    else{return false}
+console.log(count)
+    // Check second string
+    for (let char of t) {
 
+        if (count[char] === undefined || count[char] === 0) {
+            return false;
+        }
+
+        count[char] = count[char] - 1;
+    }
+
+    return true;
 
 };
