@@ -50,6 +50,7 @@
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/abbas2123/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/abbas2123/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 ## Hash Table
 |  |
@@ -61,6 +62,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abbas2123/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0032-longest-valid-parentheses](https://github.com/abbas2123/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/abbas2123/LEETCODE/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
@@ -83,4 +85,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abbas2123/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/abbas2123/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
