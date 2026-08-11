@@ -30,6 +30,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/abbas2123/LEETCODE/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abbas2123/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0238-product-of-array-except-self](https://github.com/abbas2123/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/abbas2123/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0739-daily-temperatures](https://github.com/abbas2123/LEETCODE/tree/master/0739-daily-temperatures) |
 | [1534-count-good-triplets](https://github.com/abbas2123/LEETCODE/tree/master/1534-count-good-triplets) |
@@ -99,4 +100,8 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/abbas2123/LEETCODE/tree/master/0739-daily-temperatures) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/abbas2123/LEETCODE/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
