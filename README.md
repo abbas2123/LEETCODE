@@ -31,6 +31,7 @@
 | [0066-plus-one](https://github.com/abbas2123/LEETCODE/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abbas2123/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0349-intersection-of-two-arrays](https://github.com/abbas2123/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0739-daily-temperatures](https://github.com/abbas2123/LEETCODE/tree/master/0739-daily-temperatures) |
 | [1534-count-good-triplets](https://github.com/abbas2123/LEETCODE/tree/master/1534-count-good-triplets) |
 ## Divide and Conquer
 |  |
@@ -56,6 +57,7 @@
 | [0032-longest-valid-parentheses](https://github.com/abbas2123/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/abbas2123/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abbas2123/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
+| [0739-daily-temperatures](https://github.com/abbas2123/LEETCODE/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
 | ------- |
@@ -93,4 +95,8 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/abbas2123/LEETCODE/tree/master/0032-longest-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/abbas2123/LEETCODE/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
