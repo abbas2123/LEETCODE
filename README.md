@@ -28,6 +28,7 @@
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/abbas2123/LEETCODE/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/abbas2123/LEETCODE/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abbas2123/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0238-product-of-array-except-self](https://github.com/abbas2123/LEETCODE/tree/master/0238-product-of-array-except-self) |
@@ -41,6 +42,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/abbas2123/LEETCODE/tree/master/0035-search-insert-position) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abbas2123/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0349-intersection-of-two-arrays](https://github.com/abbas2123/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 ## Enumeration
