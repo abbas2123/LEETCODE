@@ -55,6 +55,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/abbas2123/LEETCODE/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/abbas2123/LEETCODE/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/abbas2123/LEETCODE/tree/master/0066-plus-one) |
 ## Stack
 |  |
